@@ -1,4 +1,5 @@
 # Sam's Club Coding Challenge
+![CODING_CHALLENEGE](https://github.com/ngriffin23/sams_codingchallenge/assets/25151302/4a0776ee-8656-4a23-9527-1e46947c0f6d)
 ## Functionality Instructions:
 * “Change Box 1” button should change the color and border of box 1 when clicked
 * “Change Box 2” button should change the color and border of box 2 when clicked
