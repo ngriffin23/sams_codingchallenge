@@ -1,1 +1,1 @@
-# sams_codingchallenge
+# Sam's Club Coding Challenge
